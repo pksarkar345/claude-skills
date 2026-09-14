@@ -21,7 +21,7 @@ Turn a set of staged changes into a clear, well-formatted commit message.
 6. Never invent details that aren't supported by the diff — if the intent behind a change is unclear, say so rather than guessing.
 
 ## Example
-
+Test
 Given a diff that adds retry logic to an API client:
 
 ```
