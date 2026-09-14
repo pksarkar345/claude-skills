@@ -5,7 +5,7 @@ description: Writes clean, Conventional Commit-style messages from a git diff. U
 
 # Smart Commit
 
-Turn a set of staged chancges into a clear, well-formatted commit message.
+Turn a set of staged chancges intod a clear, well-formatted commit message.
 
 ## Instructions
 
